@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "project-template-infinte-running-game",
+		"path": "."
+	},
+	{
+		"name": "assets",
+		"path": "../../Desktop/assets"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "project-template-infinte-running-game"
+  }
+}
